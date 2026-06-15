@@ -1,3 +1,0 @@
-model,total_score,avg_consistency,avg_relevance,avg_linguistic,n_items,max_score,pct
-llama-3.3-70b-versatile,79,1.0,1.0714285714285714,0.75,28,168,47.0%
-meta-llama/llama-4-scout-17b-16e-instruct,79,0.9642857142857143,1.1071428571428572,0.75,28,168,47.0%
